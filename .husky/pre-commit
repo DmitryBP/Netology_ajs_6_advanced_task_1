@@ -1,2 +1,1 @@
-npm coverage
-npm lint
+npm test
