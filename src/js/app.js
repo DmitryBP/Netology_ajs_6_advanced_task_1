@@ -1,9 +1,9 @@
 /* eslint-disable no-unused-vars */
 
-import Bowman from "./Bowman";
-import Character from "./Character";
-import Deamon from "./Daemon";
-import Magician from "./Magician";
-import Swordsman from "./Swordsman";
-import Undead from "./Undead";
-import Zombie from "./Zombie";
+import Bowman from "./classes/Bowman";
+import Character from "./classes/Character";
+import Deamon from "./classes/Daemon";
+import Magician from "./classes/Magician";
+import Swordsman from "./classes/Swordsman";
+import Undead from "./classes/Undead";
+import Zombie from "./classes/Zombie";
