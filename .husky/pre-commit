@@ -1,2 +1,2 @@
-npm test
+npm coverage
 npm lint
