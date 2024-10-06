@@ -1,21 +1,9 @@
-import orderByProps from './orderByProps.js';
-import sortByAlph from './sortByAlph.js';
+/* eslint-disable no-unused-vars */
 
-const obj = {
-  name: 'мечник',
-  health: 10,
-  level: 2,
-  attack: 80,
-  defence: 40,
-};
-
-const arrOrder = ['name', 'level', 'defence'];
-
-orderByProps(obj, arrOrder);
-
-const arrObj = {
-  name: 'vasia',
-  age: 35,
-};
-
-console.log(sortByAlph(arrObj));
+import Bowman from "./Bowman";
+import Character from "./Character";
+import Deamon from "./Daemon";
+import Magician from "./Magician";
+import Swordsman from "./Swordsman";
+import Undead from "./Undead";
+import Zombie from "./Zombie";
